@@ -10,7 +10,4 @@ A [Django](https://www.djangoproject.com/) project boilerplate/template with lot
 - [ ] Make sure you have Python 3.8 installed
 - [ ] Install Django with `pip install django`, to have the `django-admin` command available.
 - [ ] Open the command line and go to the directory you want to start your project in.
-- [ ] Start your project using:
-```
-django-admin startproject PROJECT_NAME --template=https://github.com/JonathanShitrit/Django-React-Boilerplate.git
-```
+
